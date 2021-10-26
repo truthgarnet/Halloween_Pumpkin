@@ -3,6 +3,6 @@
  Clone coding (https://www.youtube.com/watch?v=-whGdudSBqU)
  </br>
  Result 
-![video](https://github.com/truthgarnet/Halloween_Pumpkin/blob/main/Halloween_Pumpkin.mp4)
+![video](https://github.com/truthgarnet/Halloween_Pumpkin/blob/main/Halloween_Pumpkin.gif)
  
 
